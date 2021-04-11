@@ -1,0 +1,21 @@
+.container {
+  position: relative;
+  background-image: url("https://i.postimg.cc/NjBXg6bN/pexels-cyril-caiazzo-1581687.jpg");
+  height: 100vh;
+  position: relative;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.page-title {
+  font-family: "Open Sans", sans-serif;
+  color: red;
+}
+
+.subtitle {
+  color: yellow;
+}
+/*# sourceMappingURL=style.css.map */
